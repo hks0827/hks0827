@@ -5,8 +5,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6994CDEE&random=false&width=435&lines=Welcome+to+my+GitHub+profile!;Java+%26+Spring+%26+Vue.js+Developer;Always+learning+new+things" alt="Typing SVG" />
   </a>
   
-  Full Stack Developer with a passion for building responsive and scalable web applications.
-  
   <div>
     <div width="100%" align="center">
       <table>
