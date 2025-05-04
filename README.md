@@ -5,6 +5,9 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
+	<img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+
 <!--
 **hks0827/hks0827** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
