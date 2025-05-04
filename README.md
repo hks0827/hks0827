@@ -1,79 +1,72 @@
-## 👋 Kangsub 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Kangsub&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60&descAlign=50)
 
 <div align="center">
   
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kangsub0827)
-  [![Solved.ac](https://img.shields.io/badge/Solved.ac-17CE3A?style=for-the-badge&logo=checkmarx&logoColor=white)](https://solved.ac/kangsub0827)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6994CDEE&random=false&width=435&lines=Welcome+to+my+GitHub+profile!;Java+%26+Spring+%26+Vue.js+Developer;Always+learning+new+things" alt="Typing SVG" />
+  </a>
   
-</div>
-
----
-
-🍏 [velog.io/@hks_0827](https://velog.io/@hks_0827/posts)
-
----
-
-<div style="display: flex; width: 100%;">
-  <div style="width: 50%;">
-    <h3>Kangsub's GitHub Stats</h3>
-    <div>
-      ⭐ Total Stars Earned: <img align="center" src="https://img.shields.io/github/stars/kangsub0827?style=flat" />
-    </div>
-    <div>
-      🕒 Total Commits: <img align="center" src="https://img.shields.io/github/commit-activity/m/kangsub0827/kangsub0827" />
-    </div>
-    <div>
-      🔀 Total PRs: <img align="center" src="https://img.shields.io/github/issues-pr-closed/kangsub0827/kangsub0827" />
-    </div>
-    <div>
-      📝 Total Issues: <img align="center" src="https://img.shields.io/github/issues/kangsub0827/kangsub0827" />
-    </div>
-    <div>
-      📁 Contributed to: <img align="center" src="https://img.shields.io/badge/Repositories-4-informational" />
+  ## 👨‍💻 About Me
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkangsub0827&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@gmail.com)](mailto:your.email@gmail.com)
+  [![Blog Badge](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://your-blog-url/)](https://your-blog-url/)
+  
+  Full Stack Developer with a passion for building responsive and scalable web applications.
+  
+  <div>
+    <div width="100%" align="center">
+      <table>
+        <tr>
+          <td valign="top" width="50%">
+            <h2>🚀 Tech Stack</h2>
+            <h3>Languages</h3>
+            <p>
+              <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+              <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+              <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+              <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+              <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+            </p>
+            <h3>Frameworks & Libraries</h3>
+            <p>
+              <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+              <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+              <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+              <img src="https://img.shields.io/badge/JPA-007396?style=for-the-badge&logo=java&logoColor=white" alt="JPA" />
+            </p>
+            <h3>Tools & Platforms</h3>
+            <p>
+              <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
+              <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+              <img src="https://img.shields.io/badge/STS-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="STS" />
+              <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+              <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+            </p>
+            <h3>Databases</h3>
+            <p>
+              <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+              <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+            </p>
+          </td>
+          <td valign="top" width="50%">
+            <h2>🏆 Solved.AC</h2>
+            <p>
+              <a href="https://solved.ac/kangsub0827">
+                <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kangsub0827" alt="Solved.ac 프로필" />
+              </a>
+            </p>
+            <p>
+              <a href="https://solved.ac/kangsub0827">
+                <img src="http://mazandi.herokuapp.com/api?handle=kangsub0827&theme=warm" alt="mazandi profile" />
+              </a>
+            </p>
+          </td>
+        </tr>
+      </table>
     </div>
   </div>
-  <div style="width: 50%; text-align: center;">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kangsub0827" alt="Solved.ac 프로필" />
-  </div>
-</div>
-
----
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Most Used Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangsub0827&layout=compact&theme=dracula" />
-      <ul>
-        <li>JavaScript 38.29%</li>
-        <li>Java 7.43%</li>
-        <li>HTML 24.26%</li>
-        <li>CSS 9.32%</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3>Once I've Used ✏️</h3>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-        <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
-        <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:p90p90p09@gmail.com)](mailto:p90p90p09@gmail.com)
-  [![Velog Badge](https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@hks_0827/posts)](https://velog.io/@hks_0827/posts)
   
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=footer)
