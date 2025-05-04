@@ -7,8 +7,8 @@
   </a>
   
   ## 👨‍💻 About Me
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@gmail.com)](mailto:your.email@gmail.com)
-  [![Blog Badge](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://your-blog-url/)](https://your-blog-url/)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:p90p90p09@gmail.com)](mailto:p90p90p09@gmail.com)
+  [![Blog Badge]([https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://your-blog-url/](https://velog.io/@hks_0827/posts))](https://your-blog-url/)
   
   Full Stack Developer with a passion for building responsive and scalable web applications.
   
