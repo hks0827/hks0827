@@ -8,8 +8,8 @@
   
   ## 👨‍💻 About Me
   
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:p90p90p09@gmail.com)](mailto:your.email@gmail.com)
-  [![Blog Badge](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://velog.id/hks_0827)](https://your-blog-url/)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:p90p90p09@gmail.com)](mailto:p90p90p09@gmail.com)
+  [![Blog Badge](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://velog.io/hks_0827)](https://velog.io/hks_0827)
   
   Full Stack Developer with a passion for building responsive and scalable web applications.
   
