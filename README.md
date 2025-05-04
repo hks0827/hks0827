@@ -40,27 +40,12 @@
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
   
-  ## 📊 GitHub Stats
-  
-  <p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kangsub0827&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangsub0827&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-  </p>
-  
   ## 🏆 Solved.AC
   
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kangsub0827)](https://solved.ac/kangsub0827)
   
   [![mazandi profile](http://mazandi.herokuapp.com/api?handle=kangsub0827&theme=warm)](https://solved.ac/kangsub0827)
   
-  ## 🔥 Contribution Graph
-  
-  [![kangsub's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kangsub0827&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-  ## 🌟 Featured Projects
-  
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kangsub0827&repo=project-name-1&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/kangsub0827/project-name-1)
-  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kangsub0827&repo=project-name-2&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/kangsub0827/project-name-2)
   
 </div>
 
