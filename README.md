@@ -1,5 +1,4 @@
 
-
 <div align="center">
   
   <a href="https://git.io/typing-svg">
@@ -7,8 +6,10 @@
   </a>
   
   ## 👨‍💻 About Me
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:p90p90p09@gmail.com)](mailto:p90p90p09@gmail.com)
-  [![Blog Badge]([https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://your-blog-url/](https://velog.io/@hks_0827/posts))](https://your-blog-url/)
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkangsub0827&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:your.email@gmail.com)](mailto:p90p90p09@gmail.com)
+  [![Blog Badge](https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://your-blog-url/)](https://velog.io/@hks_0827)
   
   Full Stack Developer with a passion for building responsive and scalable web applications.
   
