@@ -2,8 +2,6 @@
 
 **Full Stack Developer**
 
-배움을 기록하고 공유하는 지식 아카이빙 개발자입니다.
-
 ## Contact
 
 - **Email**: kangsub0827@naver.com
