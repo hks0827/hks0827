@@ -2,7 +2,7 @@
 Full Stack Developer
 [Portfolio](https://www.notion.so/IT-24ee998c17c18090b127fc5c183b7858?source=copy_link)
 
-## Contact
+## Info
 - Email: kangsub0827@naver.com
 - Blog: [https://velog.io/@hks_0827](https://velog.io/@hks_0827)
 - GitHub: [https://github.com/hks0827](https://github.com/hks0827)
