@@ -58,7 +58,3 @@ Tech Stack: Spring Boot, MyBatis, MySQL, Vue3, Spring AI
 ## Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kangsub0827)](https://solved.ac/kangsub0827)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=kangsub0827&theme=warm)
----
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hks0827&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hks0827&layout=compact)
