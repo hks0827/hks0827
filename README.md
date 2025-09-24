@@ -12,6 +12,10 @@
 ## Projects
 
 ### 캠퍼스 페이
+<table>
+<tr>
+<td width="50%">
+
 **2025.09.01 - 2025.09.31 (6명)**
 
 주식 투자와 쇼핑몰 서비스를 결합한 올인원 플랫폼
@@ -24,9 +28,22 @@
 - SAGA 패턴을 활용한 분산 트랜잭션 관리
 - Kafka를 통한 서버간 메시지 스트리밍 구현
 
+</td>
+<td width="50%">
+
+![rn_image_picker_lib_temp_e49dacaf-1e76-40d9-969f-67c9b6269caa](https://github.com/user-attachments/assets/ab3a0bb8-b56d-4e48-b822-7fa607f2fb4e)
+
+</td>
+</tr>
+</table>
+
 ---
 
 ### 쏠쏠해영
+<table>
+<tr>
+<td width="50%">
+
 **2025.08.18 - 2025.08.31 (4명)**
 
 캠퍼스 내의 정산, 결제 플랫폼
@@ -38,9 +55,24 @@
 - 금융망 OPEN API 연동 (계좌이체, 결제 내역 조회)
 - 신한 해커톤 우수상 수상
 
+</td>
+<td width="50%">
+
+<img width="2496" height="728" alt="image" src="https://github.com/user-attachments/assets/e47472b4-d568-45ba-b4d5-9233c7fff115" />
+
+
+
+</td>
+</tr>
+</table>
+
 ---
 
 ### AI Intheview
+<table>
+<tr>
+<td width="50%">
+
 **2025.07.11 - 2025.08.17 (6명)**
 
 실시간 AI 면접관 서비스
@@ -52,9 +84,23 @@
 - 비동기 처리를 통한 응답 시간 11초 → 3초 단축
 - Jira를 활용한 애자일 방식 프로젝트 관리
 
+</td>
+<td width="50%">
+
+<img width="1888" height="880" alt="image" src="https://github.com/user-attachments/assets/24dd8c47-799e-4754-937d-067ddd0d6918" />
+
+
+</td>
+</tr>
+</table>
+
 ---
 
 ### BLC (Baseball Live Chat)
+<table>
+<tr>
+<td width="50%">
+
 **2025.06.12 - 2025.06.30 (4명)**
 
 KBO 야구 경기 실시간 채팅 플랫폼
@@ -66,9 +112,23 @@ KBO 야구 경기 실시간 채팅 플랫폼
 - 3 Tier 아키텍처 기반 인프라 구축
 - Firebase, EC2, RDS 배포 담당
 
+</td>
+<td width="50%">
+
+<img width="1230" height="888" alt="image" src="https://github.com/user-attachments/assets/b884771f-3a26-45d9-8038-464c8811f375" />
+
+
+</td>
+</tr>
+</table>
+
 ---
 
 ### HOOK
+<table>
+<tr>
+<td width="50%">
+
 **2025.05.12 - 2025.05.27 (2명)**
 
 여행 계획 서비스
@@ -81,6 +141,15 @@ KBO 야구 경기 실시간 채팅 플랫폼
 - Spring AI를 활용한 리뷰 요약 기능 구현
 - RESTful API 아키텍처 설계
 
+</td>
+<td width="50%">
+
+<img width="1275" height="717" alt="image" src="https://github.com/user-attachments/assets/11ade7cc-d64d-4c5d-ade6-edf23fb8ca4b" />
+
+
+</td>
+</tr>
+</table>
 ---
 
 ## Algorithm
