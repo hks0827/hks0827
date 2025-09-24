@@ -31,7 +31,7 @@
 </td>
 <td width="50%">
 
-![rn_image_picker_lib_temp_e49dacaf-1e76-40d9-969f-67c9b6269caa](https://github.com/user-attachments/assets/ab3a0bb8-b56d-4e48-b822-7fa607f2fb4e)
+<img src="https://github.com/user-attachments/assets/ab3a0bb8-b56d-4e48-b822-7fa607f2fb4e" width="50%" alt="캠퍼스 페이">
 
 </td>
 </tr>
@@ -58,9 +58,8 @@
 </td>
 <td width="50%">
 
-![rn_image_picker_lib_temp_7bea4ad0-9125-4870-8fff-dd87a4ecf09f](https://github.com/user-attachments/assets/ac461941-19bd-4c93-87bf-b077d326745d)
 
-
+<img src="https://github.com/user-attachments/assets/ac461941-19bd-4c93-87bf-b077d326745d" width="50%" alt="캠퍼스 페이">
 
 
 </td>
