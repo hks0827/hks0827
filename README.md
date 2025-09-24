@@ -58,7 +58,8 @@
 </td>
 <td width="50%">
 
-<img width="2496" height="728" alt="image" src="https://github.com/user-attachments/assets/e47472b4-d568-45ba-b4d5-9233c7fff115" />
+![rn_image_picker_lib_temp_7bea4ad0-9125-4870-8fff-dd87a4ecf09f](https://github.com/user-attachments/assets/ac461941-19bd-4c93-87bf-b077d326745d)
+
 
 
 
