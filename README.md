@@ -19,7 +19,7 @@ Tech Stack: MSA, SAGA, Kafka, FCM, Spring Boot, Kotlin, Android
 주요 기여
 
 - MSA 아키텍처 설계 및 구현 (Docker, Nginx, RDS)
-- 증권 DB 최적화를 통한 응답 시간 6초 → 1.5초 단축
+- Redis, 인덱스를 통한 응답 시간 단축
 - SAGA 패턴을 활용한 분산 트랜잭션 관리
 - Kafka를 통한 서버간 메시지 스트리밍 구현
 ---
