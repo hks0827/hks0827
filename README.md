@@ -1,6 +1,6 @@
 # 한강섭 (KangSub Han)
 Backend Developer
-[Portfolio](https://www.notion.so/IT-24ee998c17c18090b127fc5c183b7858?source=copy_link)
+[Portfolio](https://www.notion.so/Portfolio-29de998c17c1807384c0f871236c3c95?source=copy_link)
 
 ## Info
 - Email: kangsub0827@naver.com
