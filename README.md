@@ -1,13 +1,28 @@
 # 한강섭 (KangSub Han)
-Full Stack Developer
+Backend Developer
 [Portfolio](https://www.notion.so/IT-24ee998c17c18090b127fc5c183b7858?source=copy_link)
 
 ## Info
 - Email: kangsub0827@naver.com
 - Blog: [https://velog.io/@hks_0827](https://velog.io/@hks_0827)
-- GitHub: [https://github.com/hks0827](https://github.com/hks0827)
+  
 ---
 ## Projects
+### Corazy Arcade
+
+2025.10.01 ~ 2025.11.20 (6명)
+
+개발자를 위한 알고리즘 게임 플랫폼
+
+Tech Stack: MSA, Kubernetes, Spring Cloud Gateway, Redis, WebSocket  
+
+주요 기여
+
+- MSA 아키텍처 설계 및 배포, 쿠버네티스 클러스터 운영
+- Spring Cloud Gateway 인증 필터 구현
+- Relay 서버 redis를 통한 방 세션 관리
+- WebSocket을 통한 게임 상태 변화 브로드캐스팅
+---
 ### 캠퍼스 페이
 
 2025.09.01 - 2025.09.31 (6명)
